@@ -1,0 +1,18 @@
+<div> class="Ertha Nanton">
+Ertha Nanton
+</div>
+body {
+    line-height: 1.8em;
+    background-color: aquamarine;
+    text-align: center;
+    border-style: groove;
+    font-size: 24px;
+}
+h1 {
+    text-align: center;
+    background-color: blueviolet;
+    border color: brown;
+    border-radius: 10px;
+    line-height: 2.8em;
+    font-size: 24px
+}
