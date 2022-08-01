@@ -1,34 +1,18 @@
-body {
-  color: red;
-  background-color: aqua;
-  text-align: center;
-  font-size: 15px;
-}
 h1 {
   text-align: center;
-  background-color: blueviolet;
-  border-color: brown;
-  border-radius: 10px;
-  line-height: 2.8em;
-  font-size: 24px;
+  color: red;
+  background-color: aqua;
+  border-radius: 8px;
+  border-style: solid;
 }
 h2 {
   text-align: center;
-  line-height: 2.0em;
-  font-size: 18px;
 }
 h3 {
   text-align: center;
-  line-height: 2.0em;
-  font-size: 18px;
-}
+ }
 p {
   text-align: center;
-  background-color: blue;
-  border-color: brown;
-  border-radius: 10px;
-  line-height: 2.0em;
-  font-size: 18px;
-}
+ }
   
     
